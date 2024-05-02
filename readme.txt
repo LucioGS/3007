@@ -1,0 +1,4 @@
+- Perfiles: salida de sesión
+
+
+
